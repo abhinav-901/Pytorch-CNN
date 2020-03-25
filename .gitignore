@@ -1,2 +1,4 @@
 src/.ipynb_checkpoints
 src/Validation.ipynb
+data/
+out/
